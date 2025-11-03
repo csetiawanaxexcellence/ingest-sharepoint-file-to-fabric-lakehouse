@@ -200,7 +200,9 @@ Main facade class that initializes all components and runs the process.
 
 ## License
 
-This is a template/tutorial project. Customize according to your organization's requirements.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+This is a template/tutorial project. Feel free to customize according to your organization's requirements.
 
 ## Support
 
